@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 RIO-125 — Sentiment Batch Analyser
+# RIO-125 — Sentiment Batch Analyser
 
 ### Automated Bulk NLP Pipeline for E-Commerce Feedback
 
@@ -372,14 +372,10 @@ pl = SentimentPipeline(progress_callback=my_callback)
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
 ---
 
 <div align="center">
 
-Built with ❤️ using **Streamlit** · **NLTK** · **TensorFlow** · **Plotly**
+Built using **Streamlit** · **NLTK** · **TensorFlow** · **Plotly**
 
 </div>
